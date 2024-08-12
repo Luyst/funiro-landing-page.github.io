@@ -1,0 +1,69 @@
+[
+    {
+        "image": "assets/image/product/pr1.png",
+        "productName": "Syltherine",
+        "detail": "Stylish cafe chair",
+        "newPrice": "Rp 2.500.000",
+        "oldPrice": "Rp 3.500.000",
+        "sale": "30"
+    },
+    {
+        "image": "assets/image/product/pr2.png",
+        "productName": "Leviosa",
+        "detail": "Stylish cafe chair",
+        "newPrice": "Rp 2.500.000",
+        "oldPrice": "",
+        "sale": ""
+    },
+    {
+        "image": "assets/image/product/pr3.png",
+        "productName": "Lolito",
+        "detail": "Luxury big sofa",
+        "newPrice": "Rp 7.000.000",
+        "oldPrice": "Rp 14.000.000",
+        "sale": "50"
+    },
+    {
+        "image": "assets/image/product/pr4.png",
+        "productName": "Respira",
+        "detail": "Minimalist fan",
+        "newPrice": "Rp 500.000",
+        "oldPrice": "",
+        "sale": "",
+        "new": true
+    },
+    {
+        "image": "assets/image/product/pr5.png",
+        "productName": "Grifo",
+        "detail": "Night lamp",
+        "newPrice": "Rp 1.500.000",
+        "oldPrice": "",
+        "sale": ""
+    },
+    {
+        "image": "assets/image/product/pr6.png",
+        "productName": "Muggo",
+        "detail": "Small mug",
+        "newPrice": "Rp 150.000",
+        "oldPrice": "",
+        "sale": "",
+        "new": true
+    },
+    {
+        "image": "assets/image/product/pr7.png",
+        "productName": "Pingky",
+        "detail": "Cute bed set",
+        "newPrice": "Rp 7.000.000",
+        "oldPrice": "Rp 14.000.000",
+        "sale": "50"
+    },
+    {
+        "image": "assets/image/product/pr8.png",
+        "productName": "Potty",
+        "detail": "Minimalist flower pot",
+        "newPrice": "Rp 500.000",
+        "oldPrice": "",
+        "sale": "",
+        "new": true
+    }
+]
